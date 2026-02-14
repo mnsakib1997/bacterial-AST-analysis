@@ -29,9 +29,6 @@ This pipeline performs the following tasks:
 
 │ └── AST_Analysis.ipynb # Main analysis notebook
 
-├── data/
-
-│ └── AST_Data.xlsx # Input dataset (not included)
 
 ├── output/
 
